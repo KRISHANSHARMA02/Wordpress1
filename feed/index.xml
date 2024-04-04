@@ -8,24 +8,16 @@
 	>
 
 <channel>
-	<title></title>
+	<title>SinghBrothers</title>
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
-	<description></description>
-	<lastBuildDate>Tue, 02 Apr 2024 06:29:02 +0000</lastBuildDate>
+	<description>This is singhBrothers website for consulting services in rajasthan and provide all consulting services very easy and fast</description>
+	<lastBuildDate>Thu, 04 Apr 2024 09:20:12 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.4.3</generator>
-
-<image>
-	<url>/wp-content/uploads/2024/04/SB-logo-3.png</url>
-	<title></title>
-	<link></link>
-	<width>32</width>
-	<height>32</height>
-</image> 
 </channel>
 </rss>
